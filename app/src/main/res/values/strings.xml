@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Food Store</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tv_email_address">Email Address</string>
+    <string name="tv_password">Password</string>
+    <string name="tv_full_name">Full Name</string>
+    <string name="tv_phone_number">Phone Number</string>
+    <string name="tv_address">Address</string>
+    <string name="tv_house_no">House No.</string>
+    <string name="tv_city">City</string>
+
+    <string name="edt_email_address">Type Your Email</string>
+    <string name="edt_password">Type Your Password</string>
+    <string name="edt_full_name">Type Your Full Name</string>
+    <string name="edt_phone_number">Type Your Phone Number</string>
+    <string name="edt_address">Type Your Address</string>
+    <string name="edt_house_no">Type Your House No.</string>
+    <string name="edt_city">Type Your City.</string>
+
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_create_new_account">Create New Account</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_sign_up">Sign Up Now</string>
+
+    <string name="title_sign_in">Sign In</string>
+    <string name="subtitle_sign_in">Find Your Best Ever Meal</string>
+
+
+</resources>
