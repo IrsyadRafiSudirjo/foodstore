@@ -26,6 +26,9 @@
 
     <string name="title_sign_in">Sign In</string>
     <string name="subtitle_sign_in">Find Your Best Ever Meal</string>
+    <string name="tv_yeay_completed">Yeay! Completed</string>
+    <string name="tv_subtitle_success_page">Now you are able to order some foods as a self-reward</string>
+    <string name="btn_find_food">Find Foods</string>
 
 
 </resources>
